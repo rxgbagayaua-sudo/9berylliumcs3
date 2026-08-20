@@ -1,6 +1,6 @@
 # Computational Thinking Exercise
 
-## Smart School Canteen Queue
+## *Scenario*: Smart School Canteen Queue
 
 **Name:** Rafael Xianrolf G. Bagayaua
 
@@ -9,6 +9,11 @@
 **Last Name:** Bagayaua
 
 **Date:** 20/08/26
+
+The PSHS school canteen is small and often gets crowded during lunch break. Students line up to buy food, but the process is slow because:
+    - Some students take too long to decide what to order.
+    - The cashier has to manually calculate totals and give change.
+    - There is no system to track which food items are running out.
 
 ## *Step 1*: Identifying the Big Problem
 
