@@ -75,5 +75,7 @@ Display change
 
 *End*
 
+## *Reflection*
 
+I have learned through this Thinking Exercise that when you break down a problem into little parts, it becomes easier to manage. An example would be this activity, it breaks the problem of an inefficient canteen system into smaller parts(Sub-Problems) so that it is easier to find a solution, since you are only focusing on a single problem. Furthermore, I have also learned to use the different thinking skills in the different scenarios and have learned how much it can help when you use these skills to solve problems.
 
