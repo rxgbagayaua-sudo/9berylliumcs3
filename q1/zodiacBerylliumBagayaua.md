@@ -18,7 +18,7 @@
     xi. Dog (狗 / Gǒu)
     xii. Pig (猪 / Zhū)
 
-    e. **CONSIDER** only the year of birth.
+    e. CONSIDER only the year of birth.
 
 Example input and output:
 Enter your birth year: 2000
