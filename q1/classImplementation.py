@@ -5,3 +5,12 @@ class clubs:
         self.__noOfMembers = noOfMembers
         self.activeStatus = activeStatus
 
+    def displayInfo(self):
+
+    def displayContribution(self, name):
+
+    def scheduleActivity(self, activity):
+
+    def updateMembers(self, amount):
+
+    def getNoOfMembers(self):

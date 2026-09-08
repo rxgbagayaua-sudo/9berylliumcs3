@@ -28,6 +28,7 @@ The most important method would be displayinfo() since it displays all the neces
 
 Changes from my previous design:
 - I changed the method "scheduleActivity()" into "scheduleActivity(activity)" so that the method can accept a name to put into the schedule.
+- I added two methods to replace No. of Members because it became a private variable. updateMembers() and getNoOfMembers().
 
 | Attribute | Data Type | Visibilty | Why Public/Private|
 |---|---|---|---|
