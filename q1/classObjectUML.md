@@ -24,9 +24,18 @@ For me the most important property would be the name, I believe this because the
 ### Which method is the most useful? Why?
 The most important method would be displayinfo() since it displays all the necessary information you need to know about the club upon a single command. This method can display the name, adviser, list of members, activities, contributions to the school, and upcoming events led by the club. This can also be used to make it easier in deciding which club you are best suited for, and what club you are best aligned with based on those information.
 
+## Design Revision
+
+Changes from my previous design:
+- I changed the method "scheduleActivity()" into "scheduleActivity(activity)" so that the method can accept a name to put into the schedule.
+
 | Attribute | Data Type | Visibilty | Why Public/Private|
 |---|---|---|---|
-|Name|String |Public | |
-|Adviser|String |Private | |
-|No. of Members |Integer |Public | |
-|Active Status |Boolean |Private | |
+|Name|String |Public |The club's name is a general attribute of the respective ALPs which can be displayed freely |
+|Adviser|String |Public |The club adviser is a general attribute of the respective ALPs which can be displayed freely |
+|No. of Members |Integer |Private |The number of members a club has needs to be protected so that it will not accidentally get changed to an invalid numbers such as a negative number |
+|Active Status |Boolean |Public |The active status is general information that members/ aspiring members may need to check |
+
+## Updated Class Diagram
+
+![Class Diagram](images/)
