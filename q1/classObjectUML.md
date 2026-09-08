@@ -23,3 +23,10 @@ I chose this class because, I always have a hard time trying to pick Clubs durin
 For me the most important property would be the name, I believe this because the name of a club or organization carries everything it stands for, its values, its image, and its identity is all connected to the name it carries, so when you think of a club like Polaris, you immediately think of physics, or when you think of Pisay Harmonia, you think of the chorale, so that's why I believe that the name is the most important property.
 ### Which method is the most useful? Why?
 The most important method would be displayinfo() since it displays all the necessary information you need to know about the club upon a single command. This method can display the name, adviser, list of members, activities, contributions to the school, and upcoming events led by the club. This can also be used to make it easier in deciding which club you are best suited for, and what club you are best aligned with based on those information.
+
+| Attribute | Data Type | Visibilty | Why Public/Private|
+|---|---|---|---|
+|Name|String |Public | |
+|Adviser|String |Private | |
+|No. of Members |Integer |Public | |
+|Active Status |Boolean |Private | |
