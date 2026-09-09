@@ -6,11 +6,15 @@ class clubs:
         self.activeStatus = activeStatus
 
     def displayInfo(self):
-
-    def displayContribution(self, name):
+        print("Club Name: ", self.name)
+        print("Adviser: ", self.adviser)
+        print("Number of Members: ", self.noOfMembers)
+        print("Active Status: ", self.activeStatus)
 
     def scheduleActivity(self, activity):
+     print(Activity, "has been scheduled for", self.name)
 
     def updateMembers(self, amount):
+        if self.__noOFMembers 
 
     def getNoOfMembers(self):
