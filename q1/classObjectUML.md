@@ -39,4 +39,4 @@ Changes from my previous design:
 
 ## Updated Class Diagram
 
-![Class Diagram](images/)
+![Class Diagram](images/classDiagram1.png)
