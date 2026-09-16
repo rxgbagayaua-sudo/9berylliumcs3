@@ -12,7 +12,7 @@ class clubs:
         print("Active Status: ", self.activeStatus)
 
     def scheduleActivity(self, activity):
-     print(Activity, "has been scheduled for", self.name)
+     print(activity, "has been scheduled for", self.name)
 
     def updateMembers(self, amount):
         self.__noOfMembers += amount
