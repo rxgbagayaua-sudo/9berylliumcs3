@@ -29,9 +29,10 @@ The major changes I did was adding the methods, updatemembers, and getmembers, a
 
 ## Analysis
 ### Why did you make your chosen attribute private?
-
+I made the number of members private becuase it should not be directly changed, because it can become an invalid number, such as a negative number. Making the attribute negative ensures that the number of members can only be changes through the proper methods of the class.
 ### Which method changes the state of your object?
-
+THe method that changes the state of my object is add_member(), because it modifies the number of members in an object.
 ### How did your two objects demonstrate that instances are independent?
-
+The two objects demonstrated independence since we see that using a method to change attributes of object 1 does not affect the attributes of object 2. Even though the object were created using the same class blueprint, each object can store their independent values.
 ### What is the difference between your class diagram and your object diagram?
+The class diagram shows the general blueprint of the class, such as its attributes, data types, visibility, and methods. On the other hand, the object diagram shows the specific objects created using the class blueprint and displays the actual values stored in each object.
