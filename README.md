@@ -8,12 +8,11 @@ Good Morning, Good Afternoon, Good Bye
 -[CT_Skills](./q1/ctskillsBerylliumBagayaua.md)
 ### **Chinese Zodiac**
 -[Chinese_Zodiac_Code](./q1/zodiacBerylliumBagayaua.py)
-
 -[Chinese_Zodiac_Documentation](./q1/zodiacBerylliumBagayaua.md)
 ### **ILA_OOP**
 -[ILA_OOP](./q1/ila_oop.md)
 ### **OOPAct**
--[ILA_OOP](./q1/classObjectUML.md)
+-[OOPActI](./q1/classObjectUML.md)
 ## **OOPActII**
 -[OOPActII](./q1/classAttributesMethod.md)
 ## **OOPActIII**
