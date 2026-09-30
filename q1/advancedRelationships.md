@@ -16,7 +16,7 @@ Explanation:
 An officer is a type of Member because every officer is also a member. Both of these have a name, and grade level assigned to them, but officer has an added position.
 
 ## Inheritance UML
-![Inheritance](images/inheritanceDiagram.png)
+![Inheritance](imagies/inheritanceDiagram.png)
 
 ## Composition/Aggregation
 Relationship: Aggregation

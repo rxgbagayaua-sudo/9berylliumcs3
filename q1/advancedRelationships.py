@@ -10,7 +10,7 @@ class Officer(Member):
   def __init__(self, name, grade_level, position):
     super().__init__(name, grade_level)
     self.position = position
-  def display_info(self)
+  def display_info(self):
   return f"{self.name} | Grade {self.grade_level} | {self.position}"
 
 class Adviser:
