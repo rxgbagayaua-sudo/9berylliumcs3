@@ -11,7 +11,7 @@ class Officer(Member):
     super().__init__(name, grade_level)
     self.position = position
   def display_info(self):
-  return f"{self.name} | Grade {self.grade_level} | {self.position}"
+   return f"{self.name} | Grade {self.grade_level} | {self.position}"
 
 class Adviser:
   def __init__(self, name, department):
