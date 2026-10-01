@@ -31,6 +31,7 @@ Explanation: The club aggregates an Adviser because the advise can exist indepen
 
 ## Test Run
 ![Test](images/advancedTestRun.png)
+![Test](images/advancedTestRun1.png)
 
 ## Object Diagram
 ![Objects](images/advancedObjectDiagram.png)
