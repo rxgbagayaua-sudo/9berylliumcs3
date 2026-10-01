@@ -1,10 +1,10 @@
 class Member:
-  def __init__(self, name, grade_level, role):
+  def __init__(self, name, grade_level):
     self.name = name
     self.grade_level = grade_level
 
   def display_info(self):
-    return f"{self.name} | Grade {self.grade_level} | {self.role}"
+    return f"{self.name} | Grade {self.grade_level} "
       
 class Officer(Member):
   def __init__(self, name, grade_level, position):
@@ -28,7 +28,7 @@ class Club:
       self.members = []
     def add_members(self, member):
       self.members.append(member)
-    def display_info(self)
+    def display_info(self):
       print("Club Name: ", self.name)
       print("Adviser: ", self.adviser.name)
       print("Department:", self.adviser.department)
@@ -39,7 +39,7 @@ class Club:
         print(member.display_info())
 
 adviser1 = Adviser("Geralf Paz", "Science Department")
-club1 = Club("Polaris, adviser1, True")
+club1 = Club("Polaris", adviser1, True)
 member1 = Member("JoJo", 7)
 officer1 = Officer("Chrissy", 10, "President")
 officer2 = Officer("Rafael", 9, "Sgt at Arms")
@@ -73,9 +73,9 @@ print("=== TEST 3: Club and Member Association ===")
 print("\nBuilding Class Relationship")
 print("\nAdding members to", club1.name,"...")
 
-club1.add_member(member1)
-club1.add_member(officer1)
-club1.add_member(officer2)
+club1.add_members(member1)
+club1.add_members(officer1)
+club1.add_members(officer2)
 
 print("\nAfter Relationship")
 
