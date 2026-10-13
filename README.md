@@ -20,3 +20,7 @@ Good Morning, Good Afternoon, Good Bye
 -[OOPActIII](./q1/classRelationships.md)
 ### **OOPActIV**
 -[OOPActIV](./q1/advancedRelationships.md)
+
+## Quarter 2 Activities
+### SG8-Encapsulation Activity
+-[SG#8-Encapsulation](./q2/sg8_encapsulation.py)
