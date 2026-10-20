@@ -24,3 +24,6 @@ Good Morning, Good Afternoon, Good Bye
 ## Quarter 2 Activities
 ### SG8-Encapsulation Activity
 -[SG#8-Encapsulation](./q2/sg8_encapsulation.py)
+### SG9-Inheritance Acitivity
+-[SG#9-Inheritance](./q2/sg9_inheritance.py)
+
