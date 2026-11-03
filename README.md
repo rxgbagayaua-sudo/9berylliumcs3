@@ -26,4 +26,6 @@ Good Morning, Good Afternoon, Good Bye
 -[SG#8-Encapsulation](./q2/sg8_encapsulation.py)
 ### SG9-Inheritance Acitivity
 -[SG#9-Inheritance](./q2/sg9_inheritance.py)
+### SG10-Method Overriding 
+-[SG#10-Method Overriding](./q2/sg10_MethodOverriding.py)
 

@@ -1,13 +1,13 @@
-class Animal:
+class Animal: #Creates the Animal class, The parent class of the code
     def __init__(self,name:str):
         self.name = name
 
-    def make_sound():
+    def make_sound(): #
         print(f"{self.name} makes a sound")
     def eat():
         print(f"{self.name} eats")
     
-class Lion(Animal):
+class Lion(Animal): #Creates the Lion class, which is a child class to the Animal class which is seen inside the Lion class parameters
     def make_sound(self):
         print(f"{self.name} roars loudly!")
     def eat(self):
@@ -28,6 +28,7 @@ class Monkey(Animal):
 lion = Lion("Simba")
 elephant = Elephant("Dumbo")
 monkey = Monkey("George")
+
 print("==========OUTPUT==========")
 print("==========================")
 lion.make_sound()
