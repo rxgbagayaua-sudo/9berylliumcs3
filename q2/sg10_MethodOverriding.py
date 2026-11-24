@@ -2,9 +2,9 @@ class Animal: #Creates the Animal class, The parent class of the code
     def __init__(self,name:str):
         self.name = name
 
-    def make_sound(): #
+    def make_sound(self): #
         print(f"{self.name} makes a sound")
-    def eat():
+    def eat(self):
         print(f"{self.name} eats")
     
 class Lion(Animal): #Creates the Lion class, which is a child class to the Animal class which is seen inside the Lion class parameters
