@@ -28,4 +28,7 @@ Good Morning, Good Afternoon, Good Bye
 -[SG#9-Inheritance](./q2/sg9_inheritance.py)
 ### SG10-Method Overriding 
 -[SG#10-Method Overriding](./q2/sg10_MethodOverriding.py)
-
+### SG11-Polymorphism_Activity1
+-[SG#11-Polymorphism](./q2/sg11_polymorphism_Act1.py)
+### SG11-Polymorphism_Activity2
+-[SG#11-Polymorphism](./q2/sg11_polymorphism_Act2.md)
